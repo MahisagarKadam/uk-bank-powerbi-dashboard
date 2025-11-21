@@ -67,9 +67,11 @@ According to the age table:
 
 ---
 
-## 📄 **Dashboard Preview**
-*(From your uploaded dashboard)*  
-![UK Bank Dashboard](ukbankmahi.pdf)
+
+## 📄 Dashboard Preview
+
+<img src="ukbankmahi.pdf" width="700" />
+
 
 ---
 
