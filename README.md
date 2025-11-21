@@ -69,8 +69,7 @@ According to the age table:
 
 
 ## 📄 Dashboard Preview
-
-<img src="ukbankmahi- 1.png" width="700" />
+<p align="center"> <img src="ukbankmahi-1.png" alt="UK Bank Dashboard Preview" width="750" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.4);" /> </p>
 
 
 ---
