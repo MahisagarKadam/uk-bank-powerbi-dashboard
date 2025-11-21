@@ -70,7 +70,7 @@ According to the age table:
 
 ## 📄 Dashboard Preview
 
-<img src="ukbankmahi.pdf" width="700" />
+<img src="ukbankmahi- 1.png" width="700" />
 
 
 ---
